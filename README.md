@@ -2,6 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/-Bikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikash-nath-4851a5243/)
 ![Twitter](https://img.shields.io/twitter/follow/BikashN42135012?label=Follow)
+![](https://komarev.com/ghpvc/?username=b0n21en5&color=brightgreen)
 
 [![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)](https://holopin.io/@b0n21en5)
 
