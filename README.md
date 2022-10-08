@@ -31,6 +31,9 @@
 <br />
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0n21en5&show_icons=true&locale=en&layout=compact" />
+
+
 
 
 
