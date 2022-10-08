@@ -14,7 +14,7 @@
 - 🤔 Fun Fact: I love to improve my understanding and competence at every points of life
 - 💬 Interests: Coding, Problem Solving, Cycling, Physical Workout
 - 📫 How to reach me: splittergame91@gmail.com
-- <br />
+<br />
 
 
 
