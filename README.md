@@ -35,7 +35,7 @@
 #
 
 
-<g-emoji class="g-emoji" alias='gear'  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" >⚙️</g-emoji>
+<g-emoji class="g-emoji" alias='gear'  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" >⚙️</g-emoji>==$0
 " &nbsp;GitHub Analytics"
 
 <img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" />
