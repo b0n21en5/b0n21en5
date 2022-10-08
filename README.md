@@ -14,4 +14,13 @@
 
 
 # Connect with me:
-"[Linekdin]""(https://www.linkedin.com/in/bikash-nath-4851a5243/)"
+
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/BikashN42135012)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bikash-nath-4851a5243/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/bikash4460c/)
+
