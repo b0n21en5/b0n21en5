@@ -1,4 +1,4 @@
-#                      Hi 👋, I'm Bikash
+#               <b />       Hi 👋, I'm Bikash
 
 [![LinkedIn](https://img.shields.io/badge/-Bikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikash-nath-4851a5243/)](https://www.linkedin.com/in/bikash-nath-4851a5243/)
 [![Twitter](https://img.shields.io/twitter/follow/BikashN42135012?label=Follow)](https://twitter.com/BikashN42135012)
