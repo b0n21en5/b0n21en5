@@ -3,8 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Bikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikash-nath-4851a5243/)](https://www.linkedin.com/in/bikash-nath-4851a5243/)
 [![Twitter](https://img.shields.io/twitter/follow/BikashN42135012?label=Follow)](https://twitter.com/BikashN42135012)
-<img alt="Instagram" src="https://camo.githubusercontent.com/7a705494c370a8412797521701153d2873fb39109edf80afc408efd0927ae2d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;" >
 ![](https://komarev.com/ghpvc/?username=b0n21en5&color=brightgreen)
+<img alt="Instagram" src="https://camo.githubusercontent.com/7a705494c370a8412797521701153d2873fb39109edf80afc408efd0927ae2d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;" >
+
 
 [![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)](https://holopin.io/@b0n21en5)
 
