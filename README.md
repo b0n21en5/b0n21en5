@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/-Bikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikash-nath-4851a5243/)
 
-[![Twitter](https://img.shields.io/twitter/follow/BikashN42135012?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FBikashN42135012&screen_name=codeSTACKr)
+![Twitter](https://img.shields.io/twitter/follow/BikashN42135012?label=Follow)
 
 [![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)](https://holopin.io/@b0n21en5)
 
