@@ -21,6 +21,7 @@
 
 ### Languages and Tools:
 
+<p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -28,7 +29,7 @@
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" style="padding-right:5px;" />
 <img align="left" alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" style="padding-right:5px;" />
 
-<br />
+</p>
 
 
 <img align="left" alt="b0n21en5" src="https://github-readme-stats.vercel.app/api/top-langs?username=b0n21en5&show_icons=true&locale=en&layout=compact" />
