@@ -14,4 +14,4 @@
 
 
 # Connect with me:
-"(https://www.linkedin.com/in/bikash-nath-4851a5243/)"
+"[Linekdin]""(https://www.linkedin.com/in/bikash-nath-4851a5243/)"
