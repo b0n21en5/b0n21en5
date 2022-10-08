@@ -7,7 +7,7 @@
 
 
 
-[![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)](https://holopin.io/@b0n21en5)
+[![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)]
 
 ### About Me
 
