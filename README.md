@@ -1,8 +1,6 @@
-#               <b />       Hi 👋, I'm Bikash
-
-Hi
+# Hi
 <g-emoji class="g-emoji" alias='wave'  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" >👋</g-emoji>
-", I'm"
+# , I'm
 <a href="https://github.com/b0n21en5" rel="nofollow" >Bikash</a>
 
 
