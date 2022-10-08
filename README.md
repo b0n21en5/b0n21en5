@@ -4,9 +4,9 @@
 
 ### About Me
 
-- 👀  Nath, working as a Software Developer.
-- 🌱 I’m currently learning Python Full Stack.
-- 👯 1 Star coder at CodeChef.
-- 🤔 I love to improve my understanding and competence at every points of life.
-- 💬 Interests: Coding, listening to Songs, Cycling.
-- ⚡ Fun fact: I wanted to fly like superstars when i was 10yrs old.
+- 👀 I'm currently working on opensource projects:)
+- 🌱 I’m currently learning Python & SQL
+- 👯 1 Star coder at CodeChef
+- 🤔 I love to improve my understanding and competence at every points of life
+- 💬 Interests: Coding, Problem Solving, Cycling, Physical Workout
+- 📫 How to reach me: splittergame91@gmail.com
