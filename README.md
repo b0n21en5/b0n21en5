@@ -1,4 +1,4 @@
-# Hi <g-emoji class="g-emoji" alias='wave'  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" >👋</g-emoji> , I'm <a href="https://github.com/b0n21en5" rel="nofollow" >Bikash</a>
+# Hi 👋, I'm <a href="https://github.com/b0n21en5" rel="nofollow" >Bikash</a>
 
 
 [![LinkedIn](https://img.shields.io/badge/-Bikash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bikash-nath-4851a5243/)](https://www.linkedin.com/in/bikash-nath-4851a5243/)
