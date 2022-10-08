@@ -1,7 +1,7 @@
 #                      Hi 👋, I'm Bikash
 
 [![LinkedIn](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)][linkedin]
-[![Twitter](https://img.shields.io/twitter/follow/BikashN42135012)]
+[![Twitter](https://twitter/follow/BikashN42135012?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 [![@b0n21en5's Holopin board](https://holopin.io/api/user/board?user=b0n21en5)](https://holopin.io/@b0n21en5)
 
