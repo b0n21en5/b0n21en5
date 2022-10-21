@@ -24,13 +24,14 @@
 ### Languages and Tools:
 
 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" style="padding-right:5px;" />
 <img align="left" alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" style="padding-right:5px;" />
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
 
 <br />
 
@@ -45,9 +46,9 @@
 &nbsp;GitHub Analytics
 
 
-<img align="left" alt="a0s21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" />
+<img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a0s21en5&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" />
 
-<img align="left" alt="a0s21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" />
+<img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a0s21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" />
 
 
 
