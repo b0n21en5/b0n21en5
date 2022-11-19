@@ -23,6 +23,11 @@
 
 
 
+<h3 align="left">CP:</h3><a href="https://www.codechef.com/users/bc502168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bc502168" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bc502168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bc502168" height="30" width="40" /></a>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -35,9 +40,7 @@
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" style="padding-right:5px;" />
 </a>
 
-<h3 align="left">Coding Platforms:</h3>
-<a href="https://www.codechef.com/users/bc502168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bc502168" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bc502168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bc502168" height="30" width="40" /></a>
+
 
 <br />
 
@@ -55,7 +58,9 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=b0n21en5&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bikash Nath" /></td>
 </tr>
 </table>
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="b0n21en5" />
+ </div>
 
 
 <a href="https://activity-graph.herokuapp.com/graph?username=b0n21en5"><img alt="Bikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=b0n21en5&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
