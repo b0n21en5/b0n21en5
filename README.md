@@ -44,20 +44,22 @@
 # 
 
 
-<a href="https://activity-graph.herokuapp.com/graph?username=b0n21en5"><img alt="Bikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=b0n21en5&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
-</a>
 
 
-<g-emoji class="g-emoji" alias='gear'  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png" >⚙️</g-emoji>
-&nbsp;GitHub Analytics
 
 
-<img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%;" />
-<img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;" />
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=b0n21en5&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bikash Nath" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=b0n21en5&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bikash Nath" /></td>
+</tr>
+</table>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="b0n21en5" />
 
 
-
+<a href="https://activity-graph.herokuapp.com/graph?username=b0n21en5"><img alt="Bikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=b0n21en5&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
+</a>
 
 
 
