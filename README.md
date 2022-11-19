@@ -23,7 +23,7 @@
 
 
 
-<h3 align="left">CP:</h3><a href="https://www.codechef.com/users/bc502168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bc502168" height="30" width="40" /></a>
+<h3 align="left">Competitive:</h3><a href="https://www.codechef.com/users/bc502168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bc502168" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bc502168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bc502168" height="30" width="40" /></a>
 
 
@@ -62,6 +62,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="b0n21en5" />
  </div>
 
+# 
 
 <a href="https://activity-graph.herokuapp.com/graph?username=b0n21en5"><img alt="Bikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=b0n21en5&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" />
 </a>
