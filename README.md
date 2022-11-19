@@ -61,7 +61,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="b0n21en5" /></p>
 
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
 
 
 
