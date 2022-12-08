@@ -8,4 +8,4 @@
 </tr>
 </table>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=b0n21en5"><img alt="Bikash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=b0n21en5&bg_color=231955&color=5BCDEC&line=EF5B0C&point=FFFFFF&hide_border=true" /></a>
+
