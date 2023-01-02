@@ -5,8 +5,9 @@
 <div align="center">
 <h1>Technical Skills 🛠 </h1>
 I have learned web-development and having knowledge of HTML, CSS & Javascript, Tailwind CSS and ReactJs.Have explored and built projects using HTML, CSS, Javascript, React, Tailwind CSS. Known Languages: Java, Javascript, Python, HTML, CSS.
-#
-<p align="center"> 
+<br>
+ 
+ <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
