@@ -74,5 +74,5 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&theme=dark" alt="b0n21en5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b0n21en5&theme=algolia" alt="b0n21en5" /></p>
   </div>
