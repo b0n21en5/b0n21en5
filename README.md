@@ -3,7 +3,7 @@
 
 
 # Technical Skills 🛠
-I have learned web-development and having knowledge of HTML, CSS & Javascript, Tailwind CSS and ReactJs.Have explored and built projects using HTML, CSS, Javascript
+I have learned web-development and having knowledge of HTML, CSS & Javascript, Tailwind CSS and ReactJs.Have explored and built projects using HTML, CSS, Javascript, React, Tailwind CSS. Known Languages: Java, Javascript, Python, HTML, CSS.
 
 
 <p align="center"> 
@@ -22,8 +22,24 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
+
+
+
+
+
+ <h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+
+<a  href="https://www.linkedin.com/in/bikash-nath-4851a5243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/BikashN42135012" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="bc502168@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://discord.com/users/Bikash#4888"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a  href="https://www.instagram.com/bikash4460c/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
 
 
 <table>
