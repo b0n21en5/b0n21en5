@@ -1,6 +1,10 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 ![](https://komarev.com/ghpvc/?username=b0n21en5&color=brightgreen)
 
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/bikash-nath-4851a5243/" target="_blank"> Saurav Mukherjee </a></h1>
+<img width="40%" align="right"   src="https://holopin.io/@b0n21en5" >
+
+A bit about Myself, I am <b>Bikash Nath</b>, I've completed <b>Bachelor of Commerce Degree</b> from Tripura University, As of now, I am focused on <b>web development</b> and continously learning new skills . ⚡
 
 <div align="center">
 <h1>Technical Skills 🛠 </h1>
@@ -55,7 +59,6 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 <a  href="https://www.linkedin.com/in/bikash-nath-4851a5243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/BikashN42135012" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="bc502168@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://discord.com/users/Bikash#4888"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <a  href="https://www.instagram.com/bikash4460c/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
