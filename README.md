@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=b0n21en5&color=brightgreen)
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/bikash-nath-4851a5243/" target="_blank"> Bikash Nath </a></h1>
-<img width="40%" align="right"   src="https://holopin.io/@b0n21en5" >
+<img width="50%" height="60%" align="right"   src="https://holopin.me/b0n21en5" >
 
 A bit about Myself, I am <b>Bikash Nath</b>, I've completed <b>Bachelor of Commerce Degree</b> from Tripura University, As of now, I am focused on <b>web development</b> and continously learning new skills . ⚡
 
