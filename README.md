@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=b0n21en5&color=brightgreen)
 
 
+<div align="center">
 <h1>Technical Skills 🛠 </h1>
-I have learned web-development and having knowledge of HTML, CSS & Javascript, Tailwind CSS and ReactJs.Have explored and built projects using HTML, CSS, Javascript, React, Tailwind CSS. Known Languages: Java, Javascript, Python, HTML, CSS.
+I have learned web-development and having knowledge of HTML, CSS & Javascript, Tailwind CSS and ReactJs.Have explored and built projects using HTML, CSS, Javascript, React, Tailwind CSS. Known Languages: Java, Javascript, Python, HTML, CSS. <br>
 
 
-   <div align="center">
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,7 +27,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
  
- 
+ <hr>
  <h1 align="center">Projects</h1>
 
 
@@ -46,6 +46,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 
+ <hr>
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
