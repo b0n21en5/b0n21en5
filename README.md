@@ -44,6 +44,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 | [Usability-Hub-clone-PC](https://b0n21en5.github.io/UsabilityHub/)     | Cloned Usability Hub using HTML & CSS.
 | [CodeX-ChatGPT](http://codex-chatgpt-sigma.vercel.app/)     | Chatbot built using Javascript, CSS & HTML. Deployed using Render & Vercel.
 | [Memories-website](https://github.com/b0n21en5/MEMORIES_PROJECT)     | Full Stack MERN Project
+| [Apna Cart](https://github.com/b0n21en5/apna_cart)     | Built a Cart web application with functions like add, delete, remove & more using React
 | [Calculator-App](https://b0n21en5.github.io/calculator/)     | Calculator web app using HTML, CSS and JavaScript.
 | [Tic Tac Toe](https://b0n21en5.github.io/Tic_Tac_Toe/)     | Tic Tac Toe using Html, CSS and Javascript.
 
@@ -66,8 +67,8 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 <table>
 <tr>
- <td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=b0n21en5&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
-<td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
+ <td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api?username=b0n21en5&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
+<td><img align="left" alt="b0n21en5" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=b0n21en5&show_icons=true&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></td>
 </tr>
 </table>
 
