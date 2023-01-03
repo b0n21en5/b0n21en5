@@ -74,5 +74,5 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 <div align="center">
-<p><img align="left" alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></p>
+<p><img align="left" alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast" style="max-width: 100%;" /></p>
   </div>
