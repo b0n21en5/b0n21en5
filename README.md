@@ -46,7 +46,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 | [Memories-website](https://github.com/b0n21en5/MEMORIES_PROJECT)     | Full Stack MERN Project
 | [Apna Cart](https://github.com/b0n21en5/apna_cart)     | Built a Cart web application with functions like add, delete, remove & more using React
 | [Calculator-App](https://b0n21en5.github.io/calculator/)     | Calculator web app using HTML, CSS and JavaScript.
-| [Tic Tac Toe](https://b0n21en5.github.io/Tic_Tac_Toe/)     | Tic Tac Toe using Html, CSS and Javascript.
+| [Youtube clone](https://github.com/b0n21en5/video_streaming_application)     | Video Streaming application using React.
 
 
 
