@@ -36,17 +36,47 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 
+<table>
+<tr><th>React Apps</th><th>Cloned Sites</th></tr>
+<tr><td>
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [GPT3 Open AI](https://github.com/b0n21en5/gpt3_openai--web_project)     | Modern website built using HTML5, CSS3 and JavaScript. 
-| [Metaversus Website](https://github.com/b0n21en5/metaversus_project)   | This is a fully responsive modern website build using Tailwind CSS, React and Javascript 
-| [Usability-Hub](https://b0n21en5.github.io/UsabilityHub/)     | Cloned Usability Hub using HTML & CSS.
-| [CodeX-ChatGPT](http://codex-chatgpt-sigma.vercel.app/)     | Chatbot built using Javascript, CSS & HTML. Deployed using Render & Vercel.
-| [Memories-website](https://github.com/b0n21en5/MEMORIES_PROJECT)     | Full Stack MERN Project
-| [Apna Cart](https://github.com/b0n21en5/apna_cart)     | Built a Cart web application with functions like add, delete, remove & more using React
-| [Calculator-App](https://b0n21en5.github.io/calculator/)     | Calculator web app using HTML, CSS and JavaScript.
-| [Youtube clone](https://github.com/b0n21en5/video_streaming_application)     | Video Streaming application using React.
+|Project Title | Technologies Used |
+|--|--|
+| [Metaversus](https://zingy-douhua-d7222b.netlify.app/) | React, Tailwind, JavaScript |
+| [GPT3 Open AI](https://zesty-centaur-871d7d.netlify.app/) | React, CSS, HTML |
+| [Video Streamer](https://creative-kheer-a843b8.netlify.app/) | React, CSS, rapid-api |
+| [Gym Workout App](https://comforting-gumption-fdb3a9.netlify.app/) | React, CSS, rapid-api |
+| [Apna Cart](https://steady-sundae-c8cc94.netlify.app/) | React, Bootstrap, CSS |
+
+</td><td>
+  
+|Project Title | Technologies Used |
+|--|--|
+| [UsabilityHub](https://b0n21en5.github.io/UsabilityHub/) | HTML, CSS |
+
+</td></tr></table>
+
+<table>
+<th colspan="2">Basic Websites</th>
+<tr><td>
+  
+|Project Title | Technologies Used |
+|--|--|
+| [Tic-Tac-Toe](https://b0n21en5.github.io/Tic_Tac_Toe/) | JavaScript, CSS, HTML |
+| [Weather App](https://b0n21en5.github.io/weather-application/) | JavaScript, CSS, HTML|
+| [Calculator](https://b0n21en5.github.io/calculator/) | JavaScript, CSS, HTML |
+
+ 
+  </td><td>
+  
+|Project Title | Technologies Used |
+|--|--|
+| [World Clock](https://b0n21en5.github.io/world-clock/) | JavaScript, HTML, CSS |
+| [Rock Paper Scissor](https://zingy-douhua-d7222b.netlify.app/) | JavaScript, HTML, CSS |
+| [ToDo List](https://b0n21en5.github.io/to-do/) | JavaScript, HTML, CSS |
+
+</td></tr></table>
+
 
 
 
@@ -74,5 +104,5 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 
-<img align="center" alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast&include_all_commits=true&count_private=true" style="max-width: 100%;" /></p>
+<img align="center" alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast&include_all_commits=true&count_private=false" style="max-width: 100%;" /></p>
 
