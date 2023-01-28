@@ -41,7 +41,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 | :---:        |    :----   |  
 | [GPT3 Open AI](https://github.com/b0n21en5/gpt3_openai--web_project)     | Modern website built using HTML5, CSS3 and JavaScript. 
 | [Metaversus Website](https://github.com/b0n21en5/metaversus_project)   | This is a fully responsive modern website build using Tailwind CSS, React and Javascript 
-| [Usability-Hub-clone-PC](https://b0n21en5.github.io/UsabilityHub/)     | Cloned Usability Hub using HTML & CSS.
+| [Usability-Hub](https://b0n21en5.github.io/UsabilityHub/)     | Cloned Usability Hub using HTML & CSS.
 | [CodeX-ChatGPT](http://codex-chatgpt-sigma.vercel.app/)     | Chatbot built using Javascript, CSS & HTML. Deployed using Render & Vercel.
 | [Memories-website](https://github.com/b0n21en5/MEMORIES_PROJECT)     | Full Stack MERN Project
 | [Apna Cart](https://github.com/b0n21en5/apna_cart)     | Built a Cart web application with functions like add, delete, remove & more using React
