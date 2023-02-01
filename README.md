@@ -37,7 +37,7 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 
 
 <table>
-<tr><th>React Apps</th><th>Cloned Sites</th></tr>
+<tr><th>React Apps</th><th>MERN Stack</th></tr>
 <tr><td>
 
 |Project Title | Technologies Used |
@@ -49,31 +49,10 @@ I have learned web-development and having knowledge of HTML, CSS & Javascript, T
 | [Apna Cart](https://steady-sundae-c8cc94.netlify.app/) | React, Bootstrap, CSS |
 
 </td><td>
-  
 |Project Title | Technologies Used |
 |--|--|
-| [UsabilityHub](https://b0n21en5.github.io/UsabilityHub/) | HTML, CSS |
+|Memories | React, MongoDB, NodeJS |
 
-</td></tr></table>
-
-<table>
-<th colspan="2">Basic Websites</th>
-<tr><td>
-  
-|Project Title | Technologies Used |
-|--|--|
-| [Tic-Tac-Toe](https://b0n21en5.github.io/Tic_Tac_Toe/) | JavaScript, CSS, HTML |
-| [Weather App](https://b0n21en5.github.io/weather-application/) | JavaScript, CSS, HTML|
-| [Calculator](https://b0n21en5.github.io/calculator/) | JavaScript, CSS, HTML |
-
- 
-  </td><td>
-  
-|Project Title | Technologies Used |
-|--|--|
-| [World Clock](https://b0n21en5.github.io/world-clock/) | JavaScript, HTML, CSS |
-| [Rock Paper Scissor](https://zingy-douhua-d7222b.netlify.app/) | JavaScript, HTML, CSS |
-| [ToDo List](https://b0n21en5.github.io/to-do/) | JavaScript, HTML, CSS |
 
 </td></tr></table>
 
