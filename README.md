@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=b0n21en5&color=blue)
 
-<p align="center">
-<a href="https://github.com/b0n21en5">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bikash+Nath;Full+Stack+Web+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node" alt="Typing SVG" />
-</a>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bikash+Nath;Full+Stack+Web+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node" alt="Typing SVG" />
+<img alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast&include_all_commits=true&count_private=false" />
+</div>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bikash-nath/">
@@ -62,12 +61,6 @@
 
 </td></tr>
 </table>
-
-<br />
-
-<div align="center">
-<img alt="b0n21en5" src="https://streak-stats.demolab.com/?user=b0n21en5&theme=highcontrast&include_all_commits=true&count_private=false" />
-</div>
 
 <br />
 
