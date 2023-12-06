@@ -12,7 +12,7 @@
 <a href="https://twitter.com/b0n21en5">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
-<a href="mailto:bikashnath8787@gmail.com">
+<a href="mailto:bikash708561@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 </p>
@@ -26,7 +26,7 @@
 * 🎓 I am graduated in Commerce from Tripura university
 * 🌱 I’m currently learning Next.js, Socket and Canvas
 * 💬 Ask me about Web Development
-* 📫 How to reach me: bikashnath8787@gmail.com
+* 📫 How to reach me: bikash708561@gmail.com
 <br/>
 
 <h1 align="center">Technical Skills 🛠</h1>
@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/REDUX-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-EXPRESS.JS-000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Socket-000?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/-MONGODB-white?style=for-the-badge&logo=mongodb&logoColor=4ea94b" />
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -56,8 +57,10 @@
     
 |Title | Visit Site | Pull Requests | Technologies|
 |--|--|--|--|
-| [Hunger - Zomato Clone](https://github.com/b0n21en5/Hunger) | <a align="center" href="https://hunger.onrender.com" target="_blank">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/Hunger?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
-| [ShopHub - Flipkart Clone](https://github.com/b0n21en5/ShopHub) | <a align="center" href="" target="_blank">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/ShopHub?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
+| [Stream Vista](https://github.com/b0n21en5/StreamVista) | <a align="center" href="https://stream-vista.onrender.com" target="_blank" rel="noopener noreferrer">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/StreamVista?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
+| [ShopHub - Shopping Platform](https://github.com/b0n21en5/ShopHub) | <a align="center" href="https://shophub-hy4k.onrender.com" target="_blank" rel="noopener noreferrer">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/ShopHub?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
+| [Chat Mingle - Real Time Chat](https://github.com/b0n21en5/ChatMingle) | <a align="center" href="https://chat-mingle-web.netlify.app" target="_blank" rel="noopener noreferrer">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/ChatMingle?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/-Socket-000?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
+| [Hunger - Foods and Restaurants](https://github.com/b0n21en5/Hunger) | <a align="center" href="https://hunger.onrender.com" target="_blank" rel="noopener noreferrer">Live</a> | <img src="https://img.shields.io/github/issues-search/b0n21en5/Hunger?label=Merged&query=is%3Apr+is%3Aclosed+is%3Amerged" /> | <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=4ea94b" />|
 
 </td></tr>
 </table>
